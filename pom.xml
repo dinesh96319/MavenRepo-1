@@ -4,13 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.DineshTester</groupId>
+    <groupId>io.github.dinesh96319</groupId>
     <artifactId>MavenRepo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <name>GeoLocation Project for Push Maven Repo</name>
     <description>Test sample of my jar files pushing its components to the Central Repository</description>
-    <url>https://github.com/DineshTester/MavenRepo</url>
+    <urlhttps://github.com/dinesh96319/MavenRepo-1</url>
 
     <licenses>
         <license>
@@ -20,16 +20,16 @@
     </licenses>
     <developers>
         <developer>
-            <name>Dinesh N</name>
-            <email>er.n.dinesh2017@gmail.com</email>
-            <organization>com.github.DineshTester</organization>
-            <organizationUrl>https://github.com/DineshTester/</organizationUrl>
+            <name>Dinesh</name>
+            <email>dineshnsp96@gmail.com</email>
+            <organization>com.github.dinesh96319</organization>
+            <organizationUrl>https://github.com/dinesh96319/MavenRepo-1/</organizationUrl>
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git://github.com/DineshTester/MavenRepo.git</connection>
-        <developerConnection>scm:git:ssh://github.com/DineshTester/MavenRepo.git</developerConnection>
-        <url>https://github.com/DineshTester/MavenRepo</url>
+        <connection>scm:git:git://github.com/dinesh96319/MavenRepo-1.git</connection>
+        <developerConnection>scm:git:ssh://github.com/dinesh96319/MavenRepo-1.git</developerConnection>
+        <url>https://github.com/dinesh96319/MavenRepo-1</url>
     </scm>
 
     <build>
